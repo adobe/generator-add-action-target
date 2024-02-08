@@ -1,6 +1,6 @@
 {
   "name": "@adobe/generator-add-action-target",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extensibility template for generating an Adobe Target App Builder action",
   "main": "index.js",
   "engines": {
